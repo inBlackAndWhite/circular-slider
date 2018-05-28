@@ -31,8 +31,8 @@ body {
   position: absolute;
   background: rgba(255,255,255,.5);
   -webkit-box-reflect: below 15px
-    -webkit-gradient(linear, left top, left bottom, from(transparent),
-                     color-stop(0.5, transparent), to(rgba(255,255,255,.5)));
+  -webkit-gradient(linear, left top, left bottom, from(transparent),
+                   color-stop(0.5, transparent), to(rgba(255,255,255,.5)));
 }
 
 .slider-item img {
